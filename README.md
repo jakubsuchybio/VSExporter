@@ -1,3 +1,5 @@
+# THIS EXTENSION IS NOT WORKING. IT WAS JUST A PROOF OF CONCEPT, BUT NEVER FINALIZED. MAYBE IN THE FUTURE I MIGHT FINISH IT.
+
 # VS Exporter Extension
 This extension exports shortcuts, settings and extensions. It can also export only non-default shortcuts and settings.
 
